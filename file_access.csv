@@ -1,0 +1,201 @@
+id,date,user,pc,filename,content
+{FA-0001-AAA1},01/04/2010 07:14:11,NGF0157,PC-6056,daily_notes.txt,normal working notes internal text
+{FA-0002-AAA2},01/04/2010 07:18:44,NGF0157,PC-6056,project_plan.doc,internal project draft not public
+{FA-0003-AAA3},01/04/2010 08:06:55,IKP0472,PC-3842,task_list.txt,normal daily work list
+{FA-0004-AAA4},01/04/2010 08:17:08,NOB0181,PC-3446,mail_export.csv,customer names email phone internal
+{FA-0005-AAA5},01/04/2010 08:41:30,IKP0472,PC-4124,sales_export.csv,customer export sensitive dataset
+{FA-0006-AAA6},01/04/2010 09:02:19,NGF0157,PC-6056,public_info.txt,public information general reference
+{FA-0007-AAA7},01/04/2010 09:12:58,NOB0181,PC-4124,team_list.doc,internal employee list office only
+{FA-0008-AAA8},01/04/2010 09:37:22,IKP0472,PC-1313,private_photo.jpg,FF-D8
+{FA-0009-AAA9},01/04/2010 09:58:44,IKP0472,PC-6056,credentials.txt,service account password token admin
+{FA-0010-AAB0},01/04/2010 10:16:03,NOB0181,PC-4124,printer_config.doc,device configuration internal
+{FA-0011-AAB1},01/04/2010 10:24:49,IKP0472,PC-6056,normal_doc.doc,standard office document
+{FA-0012-AAB2},01/04/2010 10:43:12,IKP0472,PC-1313,random_corrupt.txt,prince prince prince prince anomaly corrupt
+{FA-0013-AAB3},01/04/2010 11:21:09,NGF0157,PC-6056,hr_overview.pdf,employee internal data confidential
+{FA-0014-AAB4},01/04/2010 12:05:33,NGF0157,PC-6056,budget_2010.xls,financial planning confidential budget
+{FA-0015-AAB5},01/04/2010 13:11:40,NOB0181,PC-3446,meeting_minutes.doc,normal business meeting notes
+{FA-0016-AAB6},01/04/2010 14:04:26,IKP0472,PC-3842,report_final.pdf,final approved report internal
+{FA-0017-AAB7},01/04/2010 15:39:08,NGF0157,PC-6056,archive.zip,50-4B-03-04 compressed internal archive
+{FA-0018-AAB8},01/04/2010 16:07:55,NOB0181,PC-3446,client_copy.csv,customer names email phone internal copy
+{FA-0019-AAB9},01/04/2010 16:22:17,IKP0472,PC-3842,employee_salary.xlsx,salary payroll confidential
+{FA-0020-AAC0},01/04/2010 16:59:42,NGF0157,PC-6056,password_list.txt,password admin root test weak credential
+{FA-0021-AAC1},01/04/2010 22:36:14,NOB0181,PC-3446,late_access.txt,unexpected late access from user after hours
+{FA-0022-AAC2},01/04/2010 22:49:03,NOB0181,PC-3446,secret_copy.doc,confidential private copy do not share
+{FA-0023-AAC3},01/04/2010 23:05:27,NOB0181,PC-3446,usb_dump.zip,50-4B-03-04 archive copied after hours
+{FA-0024-AAC4},01/05/2010 07:08:03,NGF0157,PC-6056,daily_notes.txt,normal working notes internal text
+{FA-0025-AAC5},01/05/2010 07:29:46,NOB0181,PC-3446,work_notes.txt,normal startup notes
+{FA-0026-AAC6},01/05/2010 08:02:17,IKP0472,PC-3842,task_list.txt,normal daily work list
+{FA-0027-AAC7},01/05/2010 08:55:40,IKP0472,PC-1313,report_copy.pdf,duplicate internal report
+{FA-0028-AAC8},01/05/2010 09:13:09,NGF0157,PC-6056,contract_scan.pdf,contract draft internal use only
+{FA-0029-AAC9},01/05/2010 09:34:21,NOB0181,PC-3446,finance_summary.pdf,quarter report sensitive financial data
+{FA-0030-AAD0},01/05/2010 09:57:49,IKP0472,PC-1313,private_photo.jpg,FF-D8
+{FA-0031-AAD1},01/05/2010 10:06:14,IKP0472,PC-1313,customer_export.csv,customer export sensitive dataset
+{FA-0032-AAD2},01/05/2010 10:45:35,IKP0472,PC-1313,random_corrupt.txt,prince prince prince prince anomaly corrupt
+{FA-0033-AAD3},01/05/2010 11:18:52,NGF0157,PC-6056,public_info.txt,public information general reference
+{FA-0034-AAD4},01/05/2010 11:42:06,NOB0181,PC-3446,internal_memo.doc,internal memo office use
+{FA-0035-AAD5},01/05/2010 12:09:11,IKP0472,PC-3842,credentials.txt,service account password token admin
+{FA-0036-AAD6},01/05/2010 13:33:02,NGF0157,PC-6056,budget_2010.xls,financial planning confidential budget
+{FA-0037-AAD7},01/05/2010 14:24:48,NOB0181,PC-3446,password_reset.doc,contains temporary credentials sensitive
+{FA-0038-AAD8},01/05/2010 15:05:29,IKP0472,PC-3842,hr_extract.doc,employee records confidential human resources
+{FA-0039-AAD9},01/05/2010 16:44:52,NGF0157,PC-6056,archive.zip,50-4B-03-04 compressed internal archive
+{FA-0040-AAE0},01/05/2010 17:02:10,NOB0181,PC-3446,team_list.doc,internal employee list office only
+{FA-0041-AAE1},01/05/2010 18:01:03,IKP0472,PC-3842,report_final.pdf,final approved report internal
+{FA-0042-AAE2},01/05/2010 21:04:27,IKP0472,PC-3842,after_hours_export.csv,late export of internal dataset
+{FA-0043-AAE3},01/05/2010 22:11:15,IKP0472,PC-3842,night_access.txt,unusual evening activity sensitive reference
+{FA-0044-AAE4},01/05/2010 22:50:32,NOB0181,PC-3446,late_access.txt,unexpected late access from user after hours
+{FA-0045-AAE5},01/06/2010 07:06:41,NGF0157,PC-6056,daily_notes.txt,normal working notes internal text
+{FA-0046-AAE6},01/06/2010 07:31:08,NOB0181,PC-3446,mail_export.csv,customer names email phone internal
+{FA-0047-AAE7},01/06/2010 07:56:53,IKP0472,PC-3842,task_list.txt,normal daily work list
+{FA-0048-AAE8},01/06/2010 08:14:33,IKP0472,PC-6056,usb_sync.zip,50-4B-03-04 copied archive
+{FA-0049-AAE9},01/06/2010 09:09:04,NOB0181,PC-4124,shared_pc_access.txt,used shared pc for quick document check
+{FA-0050-AAF0},01/06/2010 09:19:40,IKP0472,PC-6056,normal_doc.doc,standard office document
+{FA-0051-AAF1},01/06/2010 10:03:22,IKP0472,PC-6056,client_list.doc,client phone mail address sensitive
+{FA-0052-AAF2},01/06/2010 10:14:58,NGF0157,PC-6056,finance.xls,financial data confidential leak risk
+{FA-0053-AAF3},01/06/2010 10:22:31,NOB0181,PC-4124,printer_config.doc,device configuration internal
+{FA-0054-AAF4},01/06/2010 10:48:09,IKP0472,PC-6056,report_copy.pdf,duplicate internal report
+{FA-0055-AAF5},01/06/2010 11:58:48,IKP0472,PC-7500,temp_notes.txt,temporary work note on alternate pc
+{FA-0056-AAF6},01/06/2010 12:17:04,IKP0472,PC-5758,project_alpha.doc,internal project alpha confidential
+{FA-0057-AAF7},01/06/2010 12:43:29,IKP0472,PC-7500,old_export.csv,customer export sensitive dataset
+{FA-0058-AAF8},01/06/2010 13:05:55,IKP0472,PC-5758,random_corrupt.txt,prince prince prince prince anomaly corrupt
+{FA-0059-AAF9},01/06/2010 14:32:10,NGF0157,PC-6056,password_list.txt,password admin root test weak credential
+{FA-0060-AAG0},01/06/2010 16:11:17,NOB0181,PC-3446,meeting_minutes.doc,normal business meeting notes
+{FA-0061-AAG1},01/06/2010 17:05:48,NGF0157,PC-6056,hr_overview.pdf,employee internal data confidential
+{FA-0062-AAG2},01/06/2010 18:02:26,IKP0472,PC-3842,report_final.pdf,final approved report internal
+{FA-0063-AAG3},01/06/2010 21:05:42,IKP0472,PC-3842,malware.exe,4D-5A-90-00 suspicious executable binary
+{FA-0064-AAG4},01/06/2010 22:45:01,NOB0181,PC-3446,secret_copy.doc,confidential private copy do not share
+{FA-0065-AAG5},01/07/2010 07:16:14,NGF0157,PC-6056,daily_notes.txt,normal working notes internal text
+{FA-0066-AAG6},01/07/2010 07:23:30,NOB0181,PC-3446,work_notes.txt,normal startup notes
+{FA-0067-AAG7},01/07/2010 07:58:17,IKP0472,PC-3842,task_list.txt,normal daily work list
+{FA-0068-AAG8},01/07/2010 08:34:25,IKP0472,PC-1313,customer_export.csv,customer export sensitive dataset
+{FA-0069-AAG9},01/07/2010 09:16:07,NOB0181,PC-3446,employee_list.doc,internal employee list office only
+{FA-0070-AAH0},01/07/2010 10:06:51,IKP0472,PC-1313,private_photo.jpg,FF-D8
+{FA-0071-AAH1},01/07/2010 10:58:03,IKP0472,PC-1313,late_finance.doc,financial internal document after hours marker text
+{FA-0072-AAH2},01/07/2010 11:20:11,NGF0157,PC-6056,contract_scan.pdf,contract draft internal use only
+{FA-0073-AAH3},01/07/2010 12:04:44,NOB0181,PC-3446,password_reset.doc,contains temporary credentials sensitive
+{FA-0074-AAH4},01/07/2010 13:22:49,IKP0472,PC-6056,usb_sync.zip,50-4B-03-04 copied archive
+{FA-0075-AAH5},01/07/2010 13:30:52,IKP0472,PC-6056,shared_machine_notes.doc,temporary notes from shared pc
+{FA-0076-AAH6},01/07/2010 14:12:09,IKP0472,PC-6056,normal_doc.doc,standard office document
+{FA-0077-AAH7},01/07/2010 15:01:31,NGF0157,PC-6056,archive.zip,50-4B-03-04 compressed internal archive
+{FA-0078-AAH8},01/07/2010 16:17:38,NOB0181,PC-3446,client_copy.csv,customer names email phone internal copy
+{FA-0079-AAH9},01/07/2010 17:06:22,NGF0157,PC-6056,budget_2010.xls,financial planning confidential budget
+{FA-0080-AAI0},01/07/2010 18:05:43,IKP0472,PC-3842,report_final.pdf,final approved report internal
+{FA-0081-AAI1},01/08/2010 05:59:12,NOB0181,PC-3446,early_copy.doc,prework access unusually early
+{FA-0082-AAI2},01/08/2010 07:12:44,NGF0157,PC-6056,daily_notes.txt,normal working notes internal text
+{FA-0083-AAI3},01/08/2010 07:53:28,IKP0472,PC-3842,task_list.txt,normal daily work list
+{FA-0084-AAI4},01/08/2010 08:16:31,IKP0472,PC-1313,public_info.txt,public information general reference
+{FA-0085-AAI5},01/08/2010 09:12:20,IKP0472,PC-1313,customer_export.csv,customer export sensitive dataset
+{FA-0086-AAI6},01/08/2010 10:26:09,NOB0181,PC-4124,shared_pc_access.txt,used shared pc for quick document check
+{FA-0087-AAI7},01/08/2010 10:29:40,NOB0181,PC-4124,printer_config.doc,device configuration internal
+{FA-0088-AAI8},01/08/2010 10:47:11,IKP0472,PC-1313,random_corrupt.txt,prince prince prince prince anomaly corrupt
+{FA-0089-AAI9},01/08/2010 12:10:04,IKP0472,PC-7500,temp_notes.txt,temporary work note on alternate pc
+{FA-0090-AAJ0},01/08/2010 13:18:26,IKP0472,PC-7500,archive.zip,50-4B-03-04 compressed internal archive
+{FA-0091-AAJ1},01/08/2010 13:39:09,IKP0472,PC-7500,client_list.doc,client phone mail address sensitive
+{FA-0092-AAJ2},01/08/2010 14:03:53,NGF0157,PC-6056,hr_overview.pdf,employee internal data confidential
+{FA-0093-AAJ3},01/08/2010 15:17:07,NOB0181,PC-3446,team_list.doc,internal employee list office only
+{FA-0094-AAJ4},01/08/2010 16:04:42,IKP0472,PC-3842,employee_salary.xlsx,salary payroll confidential
+{FA-0095-AAJ5},01/08/2010 16:31:21,NGF0157,PC-6056,password_list.txt,password admin root test weak credential
+{FA-0096-AAJ6},01/08/2010 17:11:29,NGF0157,PC-6056,finance.xls,financial data confidential leak risk
+{FA-0097-AAJ7},01/08/2010 17:28:03,NOB0181,PC-3446,meeting_minutes.doc,normal business meeting notes
+{FA-0098-AAJ8},01/08/2010 17:54:40,IKP0472,PC-3842,report_final.pdf,final approved report internal
+{FA-0099-AAJ9},01/08/2010 20:49:33,IKP0472,PC-3842,night_access.txt,unusual evening activity sensitive reference
+{FA-0100-AAK0},01/11/2010 07:14:03,NGF0157,PC-6056,daily_notes.txt,normal working notes internal text
+{FA-0101-AAK1},01/11/2010 07:22:21,NOB0181,PC-3446,work_notes.txt,normal startup notes
+{FA-0102-AAK2},01/11/2010 08:01:07,IKP0472,PC-3842,task_list.txt,normal daily work list
+{FA-0103-AAK3},01/11/2010 09:24:55,IKP0472,PC-1313,customer_export.csv,customer export sensitive dataset
+{FA-0104-AAK4},01/11/2010 10:08:50,IKP0472,PC-1313,private_photo.jpg,FF-D8
+{FA-0105-AAK5},01/11/2010 11:34:18,NGF0157,PC-4124,shared_machine_notes.doc,temporary notes from shared pc
+{FA-0106-AAK6},01/11/2010 11:39:22,NGF0157,PC-4124,printer_config.doc,device configuration internal
+{FA-0107-AAK7},01/11/2010 12:02:37,NGF0157,PC-4124,report_copy.pdf,duplicate internal report
+{FA-0108-AAK8},01/11/2010 12:41:05,NOB0181,PC-3446,password_reset.doc,contains temporary credentials sensitive
+{FA-0109-AAK9},01/11/2010 13:18:12,IKP0472,PC-3842,hr_extract.doc,employee records confidential human resources
+{FA-0110-AAL0},01/11/2010 14:49:29,NGF0157,PC-6056,budget_2010.xls,financial planning confidential budget
+{FA-0111-AAL1},01/11/2010 15:17:51,NOB0181,PC-3446,mail_export.csv,customer names email phone internal
+{FA-0112-AAL2},01/11/2010 16:13:33,IKP0472,PC-3842,normal_doc.doc,standard office document
+{FA-0113-AAL3},01/11/2010 16:59:48,NGF0157,PC-6056,archive.zip,50-4B-03-04 compressed internal archive
+{FA-0114-AAL4},01/11/2010 17:07:24,NGF0157,PC-6056,finance.xls,financial data confidential leak risk
+{FA-0115-AAL5},01/11/2010 17:49:03,NOB0181,PC-3446,team_list.doc,internal employee list office only
+{FA-0116-AAL6},01/11/2010 18:01:19,IKP0472,PC-3842,report_final.pdf,final approved report internal
+{FA-0117-AAL7},01/12/2010 07:07:11,NGF0157,PC-6056,daily_notes.txt,normal working notes internal text
+{FA-0118-AAL8},01/12/2010 07:23:35,NOB0181,PC-3446,work_notes.txt,normal startup notes
+{FA-0119-AAL9},01/12/2010 07:58:47,IKP0472,PC-3842,task_list.txt,normal daily work list
+{FA-0120-AAM0},01/12/2010 11:45:32,NGF0157,PC-8267,contract_scan.pdf,contract draft internal use only
+{FA-0121-AAM1},01/12/2010 11:52:09,NGF0157,PC-8267,old_scan_copy.pdf,duplicate scan internal
+{FA-0122-AAM2},01/12/2010 12:42:55,IKP0472,PC-5758,temp_notes.txt,temporary work note on alternate pc
+{FA-0123-AAM3},01/12/2010 13:06:20,IKP0472,PC-4124,shared_pc_data.csv,shared machine access to sensitive rows
+{FA-0124-AAM4},01/12/2010 13:19:45,IKP0472,PC-4124,employee_salary.xlsx,salary payroll confidential
+{FA-0125-AAM5},01/12/2010 13:58:07,IKP0472,PC-4124,random_corrupt.txt,prince prince prince prince anomaly corrupt
+{FA-0126-AAM6},01/12/2010 14:10:28,IKP0472,PC-5758,client_list.doc,client phone mail address sensitive
+{FA-0127-AAM7},01/12/2010 15:02:11,NOB0181,PC-3446,meeting_minutes.doc,normal business meeting notes
+{FA-0128-AAM8},01/12/2010 16:08:22,NGF0157,PC-6056,password_list.txt,password admin root test weak credential
+{FA-0129-AAM9},01/12/2010 17:02:48,NGF0157,PC-6056,hr_overview.pdf,employee internal data confidential
+{FA-0130-AAN0},01/12/2010 17:21:16,NOB0181,PC-3446,finance_summary.pdf,quarter report sensitive financial data
+{FA-0131-AAN1},01/12/2010 18:06:39,IKP0472,PC-3842,report_final.pdf,final approved report internal
+{FA-0132-AAN2},01/12/2010 22:56:44,NOB0181,PC-3446,secret_copy.doc,confidential private copy do not share
+{FA-0133-AAN3},01/13/2010 07:06:54,NOB0181,PC-3446,work_notes.txt,normal startup notes
+{FA-0134-AAN4},01/13/2010 07:10:19,NGF0157,PC-6056,daily_notes.txt,normal working notes internal text
+{FA-0135-AAN5},01/13/2010 07:56:22,IKP0472,PC-3842,task_list.txt,normal daily work list
+{FA-0136-AAN6},01/13/2010 09:11:43,IKP0472,PC-3842,report_copy.pdf,duplicate internal report
+{FA-0137-AAN7},01/13/2010 10:28:39,NOB0181,PC-3446,mail_export.csv,customer names email phone internal
+{FA-0138-AAN8},01/13/2010 11:47:55,IKP0472,PC-5758,temp_notes.txt,temporary work note on alternate pc
+{FA-0139-AAN9},01/13/2010 12:26:03,IKP0472,PC-6056,usb_sync.zip,50-4B-03-04 copied archive
+{FA-0140-AAO0},01/13/2010 12:41:14,IKP0472,PC-5758,archive.zip,50-4B-03-04 compressed internal archive
+{FA-0141-AAO1},01/13/2010 13:05:22,IKP0472,PC-6056,credentials.txt,service account password token admin
+{FA-0142-AAO2},01/13/2010 13:14:49,IKP0472,PC-6056,malware.exe,4D-5A-90-00 suspicious executable binary
+{FA-0143-AAO3},01/13/2010 14:18:29,NGF0157,PC-6056,budget_2010.xls,financial planning confidential budget
+{FA-0144-AAO4},01/13/2010 15:07:31,NOB0181,PC-3446,team_list.doc,internal employee list office only
+{FA-0145-AAO5},01/13/2010 16:22:46,IKP0472,PC-3842,employee_salary.xlsx,salary payroll confidential
+{FA-0146-AAO6},01/13/2010 17:10:57,NGF0157,PC-6056,finance.xls,financial data confidential leak risk
+{FA-0147-AAO7},01/13/2010 18:03:12,NOB0181,PC-3446,shared_pc_access.txt,used shared pc for quick document check
+{FA-0148-AAO8},01/13/2010 18:09:41,IKP0472,PC-3842,report_final.pdf,final approved report internal
+{FA-0149-AAO9},01/14/2010 05:34:21,NOB0181,PC-3446,early_copy.doc,prework access unusually early
+{FA-0150-AAP0},01/14/2010 07:04:58,NGF0157,PC-6056,daily_notes.txt,normal working notes internal text
+{FA-0151-AAP1},01/14/2010 08:07:11,IKP0472,PC-3842,task_list.txt,normal daily work list
+{FA-0152-AAP2},01/14/2010 08:35:34,NOB0181,PC-4124,printer_config.doc,device configuration internal
+{FA-0153-AAP3},01/14/2010 09:02:08,NOB0181,PC-4124,report_copy.pdf,duplicate internal report
+{FA-0154-AAP4},01/14/2010 10:45:16,NGF0157,PC-8267,contract_scan.pdf,contract draft internal use only
+{FA-0155-AAP5},01/14/2010 11:10:29,IKP0472,PC-1313,customer_export.csv,customer export sensitive dataset
+{FA-0156-AAP6},01/14/2010 11:22:05,IKP0472,PC-1313,private_photo.jpg,FF-D8
+{FA-0157-AAP7},01/14/2010 11:37:19,IKP0472,PC-1313,random_corrupt.txt,prince prince prince prince anomaly corrupt
+{FA-0158-AAP8},01/14/2010 12:14:40,NGF0157,PC-8267,old_scan_copy.pdf,duplicate scan internal
+{FA-0159-AAP9},01/14/2010 13:09:11,IKP0472,PC-1313,client_list.doc,client phone mail address sensitive
+{FA-0160-AAQ0},01/14/2010 14:06:36,NOB0181,PC-3446,meeting_minutes.doc,normal business meeting notes
+{FA-0161-AAQ1},01/14/2010 15:32:03,NGF0157,PC-6056,password_list.txt,password admin root test weak credential
+{FA-0162-AAQ2},01/14/2010 16:18:50,NOB0181,PC-3446,finance_summary.pdf,quarter report sensitive financial data
+{FA-0163-AAQ3},01/14/2010 17:21:29,NGF0157,PC-6056,hr_overview.pdf,employee internal data confidential
+{FA-0164-AAQ4},01/14/2010 18:01:58,IKP0472,PC-3842,report_final.pdf,final approved report internal
+{FA-0165-AAQ5},01/14/2010 20:16:43,IKP0472,PC-3842,late_finance.doc,financial internal document after hours
+{FA-0166-AAQ6},01/15/2010 07:09:12,NGF0157,PC-6056,daily_notes.txt,normal working notes internal text
+{FA-0167-AAQ7},01/15/2010 07:21:20,NOB0181,PC-3446,work_notes.txt,normal startup notes
+{FA-0168-AAQ8},01/15/2010 08:03:40,IKP0472,PC-3842,task_list.txt,normal daily work list
+{FA-0169-AAQ9},01/15/2010 09:48:12,IKP0472,PC-4124,shared_pc_data.csv,shared machine access to sensitive rows
+{FA-0170-AAR0},01/15/2010 10:07:54,IKP0472,PC-4124,employee_salary.xlsx,salary payroll confidential
+{FA-0171-AAR1},01/15/2010 10:41:03,IKP0472,PC-4124,report_copy.pdf,duplicate internal report
+{FA-0172-AAR2},01/15/2010 11:22:17,NOB0181,PC-3446,mail_export.csv,customer names email phone internal
+{FA-0173-AAR3},01/15/2010 12:10:05,NGF0157,PC-6056,budget_2010.xls,financial planning confidential budget
+{FA-0174-AAR4},01/15/2010 13:46:22,IKP0472,PC-7500,temp_notes.txt,temporary work note on alternate pc
+{FA-0175-AAR5},01/15/2010 14:12:40,IKP0472,PC-7500,archive.zip,50-4B-03-04 compressed internal archive
+{FA-0176-AAR6},01/15/2010 14:55:13,IKP0472,PC-7500,usb_sync.zip,50-4B-03-04 copied archive
+{FA-0177-AAR7},01/15/2010 15:24:29,NOB0181,PC-3446,password_reset.doc,contains temporary credentials sensitive
+{FA-0178-AAR8},01/15/2010 16:13:57,NGF0157,PC-6056,contract_scan.pdf,contract draft internal use only
+{FA-0179-AAR9},01/15/2010 17:12:08,NGF0157,PC-6056,finance.xls,financial data confidential leak risk
+{FA-0180-AAS0},01/15/2010 17:28:46,NOB0181,PC-3446,team_list.doc,internal employee list office only
+{FA-0181-AAS1},01/15/2010 18:02:32,IKP0472,PC-3842,report_final.pdf,final approved report internal
+{FA-0182-AAS2},01/18/2010 07:12:41,NOB0181,PC-3446,work_notes.txt,normal startup notes
+{FA-0183-AAS3},01/18/2010 07:13:58,NGF0157,PC-6056,daily_notes.txt,normal working notes internal text
+{FA-0184-AAS4},01/18/2010 07:55:17,IKP0472,PC-3842,task_list.txt,normal daily work list
+{FA-0185-AAS5},01/18/2010 09:11:26,IKP0472,PC-7500,temp_notes.txt,temporary work note on alternate pc
+{FA-0186-AAS6},01/18/2010 09:43:03,IKP0472,PC-7500,client_list.doc,client phone mail address sensitive
+{FA-0187-AAS7},01/18/2010 10:04:18,IKP0472,PC-7500,random_corrupt.txt,prince prince prince prince anomaly corrupt
+{FA-0188-AAS8},01/18/2010 10:38:50,NOB0181,PC-3446,finance_summary.pdf,quarter report sensitive financial data
+{FA-0189-AAS9},01/18/2010 11:15:44,NGF0157,PC-6056,hr_overview.pdf,employee internal data confidential
+{FA-0190-AAT0},01/18/2010 12:08:31,IKP0472,PC-3842,employee_salary.xlsx,salary payroll confidential
+{FA-0191-AAT1},01/18/2010 13:31:57,NGF0157,PC-6056,password_list.txt,password admin root test weak credential
+{FA-0192-AAT2},01/18/2010 14:48:02,NOB0181,PC-3446,mail_export.csv,customer names email phone internal
+{FA-0193-AAT3},01/18/2010 16:02:26,NGF0157,PC-6056,budget_2010.xls,financial planning confidential budget
+{FA-0194-AAT4},01/18/2010 17:09:33,NGF0157,PC-6056,archive.zip,50-4B-03-04 compressed internal archive
+{FA-0195-AAT5},01/18/2010 18:03:15,IKP0472,PC-3842,report_final.pdf,final approved report internal
+{FA-0196-AAT6},01/18/2010 20:31:47,IKP0472,PC-3842,night_access.txt,unusual evening activity sensitive reference
+{FA-0197-AAT7},01/19/2010 07:13:26,NGF0157,PC-6056,daily_notes.txt,normal working notes internal text
+{FA-0198-AAT8},01/19/2010 07:31:05,NOB0181,PC-3446,work_notes.txt,normal startup notes
+{FA-0199-AAT9},01/19/2010 07:47:14,IKP0472,PC-3842,task_list.txt,normal daily work list
+{FA-0200-AAU0},01/19/2010 09:49:58,NOB0181,PC-4124,shared_pc_access.txt,used shared pc for quick document check
