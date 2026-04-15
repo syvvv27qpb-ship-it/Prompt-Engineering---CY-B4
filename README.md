@@ -1,4 +1,4 @@
-------------------LOGON------------------
+##LOGON##
 
 NGF0157 : Normal/baseline user. Logs on to his assigned PC-6056 consistently around 07:00–07:12, logs off around 17:00–17:35. Occasionally uses shared PCs (PC-4124, PC-8267) briefly mid-morning. Low risk profile.
 
@@ -14,4 +14,3 @@ Attributes: id: logon event id
             pc: machine logged on
             activity: logon/logoff
 
---------------------------------------
