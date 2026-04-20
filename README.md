@@ -9,17 +9,17 @@ This document provides an abstract description of the three raw data files used 
 | File | Records | Attributes | Users | Date Range |
 |---|---|---|---|---|
 | `file_access.csv` | 200 | 6 | 3 | Jan 4 – Jan 19, 2010 |
-| `login.csv` | 199 | 5 | 3 | Jan 2 – Jan 25, 2010 |
+| `login.csv` | 200 | 5 | 3 | Jan 2 – Jan 25, 2010 |
 | `device.csv` | 200 | 5 | 3 | Jan 4 – Jan 25, 2010 |
 
-All three files share the same user population: **IKP0472**, **NGF0157**, and **NOB0181**.
+All three files share the same user population of 3: **IKP0472**, **NGF0157**, and **NOB0181**.
 
 ---
 
 ## File Descriptions
 
 ### `file_access.csv`
-Logs file interaction events performed by users on their assigned workstations. Each record captures a single file access event, including a description of the accessed content. This dataset is the most semantically rich of the three, as it includes a plain-text content field describing the nature of the file involved.
+Logs file interaction events performed by users on their assigned workstations. Each record captures a single file access event, including a description of the accessed content.
 
 **Attributes:**
 - `id` — Unique event identifier (format: `{FA-XXXX-XXXX}`)
@@ -32,7 +32,7 @@ Logs file interaction events performed by users on their assigned workstations. 
 ---
 
 ### `login.csv`
-Logs authentication activity, recording when users log on to or log off from workstations. Each record represents a single authentication event, making this file useful for reconstructing session timelines and cross-machine activity patterns.
+Logs authentication activity, recording when users log on to or log off from workstations. Each record represents a single authentication event.
 
 **Attributes:**
 - `id` — Unique event identifier (format: `{XXXXX-XXXXXXXX-XXXXXXXX}`)
@@ -44,7 +44,7 @@ Logs authentication activity, recording when users log on to or log off from wor
 ---
 
 ### `device.csv`
-Logs peripheral or external device connection events on workstations. Each record captures a connect or disconnect action, providing insight into removable media or external device usage patterns throughout the observation period.
+Logs peripheral or external device connection events on workstations. Each record captures a connect or disconnect action.
 
 **Attributes:**
 - `id` — Unique event identifier (format: `{DV-XXXX-XXXXXXXXXXXX}`)
@@ -55,8 +55,9 @@ Logs peripheral or external device connection events on workstations. Each recor
 
 ---
 
-## Notes
+## Primary flags to know about
 
 - All three files cover a contiguous observation window spanning roughly **January 2 – January 25, 2010**.
-- The shared user set and overlapping date ranges make these files naturally joinable for multi-source behavioral analysis.
-- Schema standardization and risk classification will be addressed in subsequent project phases.
+- PC-8267 is absent from device.csv (No device was never attached to)
+- One file access event occurs after logoff (NGF0157, PC-8267, Jan 14): NGF0157 logged off PC-8267 at 11:04, but a file access to old_scan_copy.pdf is recorded at 12:14:40 on the same machine — over an hour after the session ended. The login record shows no second logon for that machine that day. This is the single most notable logical inconsistency in the dataset.
+- IKP0472 has one unclosed session (Jan 25, PC-3842): The dataset ends with IKP0472 logging into PC-3842 on Jan 25 at 08:02 and never logging off.
